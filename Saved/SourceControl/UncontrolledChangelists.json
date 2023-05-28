@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pasca/Documents/Unreal Projects/AOT_QuizGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pasca/Documents/Unreal Projects/AOT_QuizGame/Content/Quiz/Base_Level.umap",
+				"C:/Users/pasca/Documents/Unreal Projects/AOT_QuizGame/Content/Quiz/User_Interface.uasset",
+				"C:/Users/pasca/Documents/Unreal Projects/AOT_QuizGame/Content/Quiz/Quiz_Interface.uasset"
+			]
+		}
+	]
+}

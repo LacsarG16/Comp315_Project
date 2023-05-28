@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AOT_QuizGame",
+			"Path": "C:\\Users\\pasca\\Documents\\Unreal Projects\\AOT_QuizGame\\Source\\AOT_QuizGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AOT_QuizGameEditor",
+			"Path": "C:\\Users\\pasca\\Documents\\Unreal Projects\\AOT_QuizGame\\Source\\AOT_QuizGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

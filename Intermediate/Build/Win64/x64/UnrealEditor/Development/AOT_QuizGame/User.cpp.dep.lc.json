@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\source\\aot_quizgame\\user.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\x64\\aot_quizgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aot_quizgame\\definitions.aot_quizgame.h",
+            "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\source\\aot_quizgame\\user.h",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\iostream",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\istream",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\ostream",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\ios",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xlocnum",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\iterator",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\streambuf",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xiosbase",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\share.h",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\system_error",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\__msvc_system_error_abi.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\cerrno",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\stdexcept",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xcall_once.h",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xerrc.h",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xlocale",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\memory",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xfacet",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\xlocinfo",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\__msvc_xlocinfo_types.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\cctype",
+            "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.35.32215\\include\\clocale",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\locale.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

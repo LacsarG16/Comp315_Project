@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\unrealgame\\inc\\aot_quizgame\\uht\\aot_quizgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\x64\\aot_quizgame\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\aot_quizgame\\definitions.aot_quizgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

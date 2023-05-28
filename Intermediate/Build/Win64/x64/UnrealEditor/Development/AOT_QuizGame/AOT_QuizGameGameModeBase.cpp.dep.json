@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\source\\aot_quizgame\\aot_quizgamegamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\x64\\aot_quizgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aot_quizgame\\definitions.aot_quizgame.h",
+            "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\source\\aot_quizgame\\aot_quizgamegamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\pasca\\documents\\unreal projects\\aot_quizgame\\intermediate\\build\\win64\\unrealeditor\\inc\\aot_quizgame\\uht\\aot_quizgamegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

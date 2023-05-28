@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AOT_QuizGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\AOT_QuizGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\AOT_QuizGame.init.gen.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\AOT_QuizGameGameModeBase.gen.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\QuizRun.gen.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\User_Control.gen.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\AOT_QuizGame.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\AOT_QuizGameGameModeBase.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\JumbleWord.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\QuizRun.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\SQL_Execution.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\User.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\User_Control.cpp.obj"
+"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\Default.rc2.res"
+/OUT:"C:\Users\pasca\Documents\Unreal Projects\AOT_QuizGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AOT_QuizGame\UnrealEditor-AOT_QuizGame.lib"
